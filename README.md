@@ -1,8 +1,6 @@
 # QR code component layout
 ___
 
-<image src="/images/fotoLayout.png" 
-
 
 **1. To run on a local machine, you need:**
 
